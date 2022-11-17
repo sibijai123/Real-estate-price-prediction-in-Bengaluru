@@ -7,5 +7,5 @@ Youtube Link: Mr.Dhaval Patel takes you through a fantastic journey of building 
 
 Video 1: https://youtube.com/watch?v=rdfbcdP75KI&list=PLeo1K3hjS3uu7clOTtwsp94PcHbzqpAdg
 
-#Goal
+# Goal
 Our goal is to develop an optimal supervised machine learning model which can predict the real estate price when some features like location, bedroom size, bathroom size is provided. Previous labeled data is attached in the repository. You can use it to make the model.
